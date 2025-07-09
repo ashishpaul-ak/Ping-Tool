@@ -34,12 +34,16 @@ This Ping Network Monitoring Tool is a GUI-based application designed to monitor
 The application features multiple components:
 
 1. **Main Monitoring Dashboard**: Central interface showing all monitored IPs with their current status
+![image](https://github.com/user-attachments/assets/c19627ba-6dc4-4d09-8da8-3937fb0d57b5)
+  
 2. **Individual Ping Graphs**: Detailed RTT graphs for each IP address showing:
    - Round-trip time measurements over time
    - Min/Max/Average values
    - Current connection status
    - Packet loss indicators
    - Time-stamped data points
+![image](https://github.com/user-attachments/assets/ef73b4f8-27ed-46af-8ab5-b9417e9efd3d)
+
 
 ## Technical Specifications
 
